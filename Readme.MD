@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Robotic Processing Automation, Data Engineering, Software Develment**
 
-- 📫 How to reach me **nisarg13598@gmail.com**
+- 📫 How to reach me **nisarg2813@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/nisarg-thakkar-990379197/
 
