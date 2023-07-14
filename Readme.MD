@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nisarg-1998&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg-1998" /> </p>
 
-- 🌱 I’m currently learning **AL/ML, Data Science**
+- 🌱 I’m currently learning **AI/ML, Data Science**
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **Robotic Processing Automation, Data Engineering, Software Develment**
+- 💬 Ask me about **Robotic Processing Automation, Data Engineering, Software Development**
 
 - 📫 How to reach me **nisarg2813@gmail.com**
 
