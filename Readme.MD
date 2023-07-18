@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI/ML, Data Science**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at **https://nisarg.vercel.app/**
 
 - 💬 Ask me about **Robotic Processing Automation, Data Engineering, Software Development**
 
