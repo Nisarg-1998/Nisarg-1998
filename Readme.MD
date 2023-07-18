@@ -12,11 +12,11 @@
 
 - 📫 How to reach me **nisarg2813@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/nisarg-thakkar-990379197/
+- 📄 Know about my experiences <a href = "https://www.linkedin.com/in/nisarg-thakkar-0b3308284/">Linkedin 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nisarg-thakkar-990379197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nisarg Thakkar" height="30" width="40" /></a><a href="https://www.hackerrank.com/nisargthakkar361?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nisarg-1998" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nisarg-thakkar-0b3308284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nisarg Thakkar" height="30" width="40" /></a><a href="https://www.hackerrank.com/nisargthakkar361?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nisarg-1998" height="30" width="40" /></a>
 </p>
 
 
