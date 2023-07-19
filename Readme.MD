@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/nisarg-thakkar-0b3308284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nisarg Thakkar" height="30" width="40" /></a><a href="https://www.hackerrank.com/nisargthakkar361?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nisarg-1998" height="30" width="40" /></a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisarg-1998&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisarg-1998 &theme=radical)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarg-1998&theme=tokyonight" alt="mystreak"/>
 
 <h3 align="left">Languages and Tools:</h3>
