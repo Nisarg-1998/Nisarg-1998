@@ -20,7 +20,7 @@
 </p>
 
 
-![Jahnvi's github stats](https://github-readme-stats.vercel.app/api?username=Nisarg-1998&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisarg-1998&show_icons=true&theme=radical)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarg-1998&theme=tokyonight" alt="mystreak"/>
 
 <h3 align="left">Languages and Tools:</h3>
