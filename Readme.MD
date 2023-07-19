@@ -19,10 +19,6 @@
 <a href="https://www.linkedin.com/in/nisarg-thakkar-0b3308284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nisarg Thakkar" height="30" width="40" /></a><a href="https://www.hackerrank.com/nisargthakkar361?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nisarg-1998" height="30" width="40" /></a>
 </p>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d86ae32f78a7c8cbb58489732c2af1e6c813d0af
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisarg-1998&show_icons=true&theme=radical)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarg-1998&theme=tokyonight" alt="mystreak"/>
 
@@ -50,8 +46,4 @@
 </p><a href="https://cloud.google.com/free" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" alt="GCP" width="40" height="40"/> </a><a href="https://aws.amazon.com/free/?trk=e747cc26-a307-4ae0-981a-6dc5c1cb4121&sc_channel=ps&ef_id=Cj0KCQjwnrmlBhDHARIsADJ5b_kG5vHFTcQkvm2_BoutbFhUj4ltNnru5slmzBBYSC2PUx3IlztkG-8aAnNmEALw_wcB:G:s&s_kwcid=AL!4422!3!453053794209!e!!g!!aws!10705896207!102406402981&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <p>
 
-<<<<<<< HEAD
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg-1998&count_private=true&langs_count=7&hide=html&layout=compact" alt="nisarg" /></p>
-=======
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nisarg-1998&show_icons=true&locale=en&layout=compact" alt="Nisarg-1998" /></p>
->>>>>>> d86ae32f78a7c8cbb58489732c2af1e6c813d0af
